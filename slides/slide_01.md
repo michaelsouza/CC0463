@@ -207,7 +207,7 @@ $$M_f = 0.2 \times F + 0.4 \times R + 0.4 \times A,$$
 
 onde 
 
-$$P=\frac{F_{max} - F_{real}}{F_{max}}.$$
+$$F=\frac{F_{max} - F_{real}}{F_{max}}.$$
 
 ![bg right:40% height:300](../figures/table_media.png)
 
