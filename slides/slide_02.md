@@ -42,7 +42,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
 
 ### Etapas do Projeto
 
-0. As equipes...
+1. As equipes...
     - serão 5 alunos (11 equipes)
     - devem ter um veterano e um calouro
     - são fixas e não podem ser alteradas
@@ -52,7 +52,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
 ---
 ### Etapas do Projeto
 
-1. Escolha de um conjunto de dados
+2. Escolha de um conjunto de dados
     - O conjunto de dados deve ser real e conter informações suficientes para responder a uma pergunta de pesquisa
     - O conjunto de dados deve ser disponibilizado publicamente
     - Os critérios para escolha do conjunto de dados serão discutidos em sala de aula
@@ -61,7 +61,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
 
 ---
 ### Etapas do Projeto
-2. Formulação de uma pergunta de pesquisa
+3. Formulação de uma pergunta de pesquisa
     - Deve ser clara e objetiva
     - Deve ser relevante e factível
     - Deve ser respondida com base nos dados disponíveis
@@ -70,13 +70,12 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
 
 ---
 ### Etapas do Projeto
-3. Análise exploratória dos dados
+4. Análise exploratória dos dados
     - Análise descritiva dos dados
     - Análise gráfica dos dados
     - Análise de associação entre variáveis
 
-
-4. Análise estatística dos dados
+5. Análise estatística dos dados
     - Escolha de um teste estatístico apropriado
     - Aplicação do teste estatístico
     - Interpretação dos resultados
@@ -104,7 +103,6 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
 ![bg right:20% height:900](slide_01/presentation.jpg)
 
 ---
-<style scoped>section { justify-content: start; }</style>
 
 ### Possíveis conjuntos de dados
 
@@ -118,17 +116,24 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
 ![bg right:30% height:800](slide_01/dataset.webp)
 
 ---
-<style scoped>section { justify-content: start; }</style>
 
 ### Possíveis conjuntos de dados
 - [Brasil.io](https://brasil.io/datasets)
 - [Dados.gov.br](https://dados.gov.br/home)
 - [Banco Central do Brasil](https://opendata.bcb.gov.br/)
 - [Portal da Transparência](https://portaldatransparencia.gov.br/)
-
+- [Secretária de Segurança Pública CE](https://www.sspds.ce.gov.br/estatisticas-2/)
 
 ![bg right:30% height:800](slide_01/dataset.webp)
 
+---
+
+### Sobre a escolha do conjunto de dados
+
+- Cada integrante deve escolher um conjunto de dados
+- O grupo deve escolher um dos conjuntos de dados até o dia 05/04
+- Cada grupo deve escolher um conjunto diferente
+- Cada integrante deve preencher o formulário com o seu conjunto de dados
 ---
 
 <!-- _backgroundColor: orange -->

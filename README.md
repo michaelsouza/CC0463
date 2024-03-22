@@ -99,9 +99,14 @@ Participação em aula, elaboração de questionários estatísticos, análise d
 
 A avaliação será baseada na participação em aula (frequência) e na qualidade dos trabalhos apresentados. Utilizando a seguinte fórmula:
 
-```
-Média Final = 0.2 * (Participação em Aula) + 0.4 * (Relatório Escrito) + 0.4 * (Apresentação Oral)
-```
+$$M_f = 0.2 \times F + 0.4 \times R + 0.4 \times A,$$
+
+onde $R$ é a nota do relatório, $A$ é a nota da apresentação oral e $F$ é a frequência do aluno. A frequência será calculada da seguinte forma:
+
+$$F=\frac{F_{max} - F_{real}}{F_{max}},$$
+
+onde $F_{max}$ é o número máximo de faltas permitidas para não ser reprovado por falta e $F_{real}$ é o número de faltas do aluno.
+
 
 ## Projeto
 
@@ -131,11 +136,11 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
 
 5. Apresentação dos resultados
     - Relatório escrito
-        > O relatório escrito deve conter uma introdução, uma descrição dos dados, a metodologia utilizada, os resultados obtidos e uma discussão dos resultados;
-        > Deve ter no mínimo 5 páginas e no máximo 10 páginas;
-        > Deve ser escrito em formato de artigo científico;
+        - O relatório escrito deve conter uma introdução, uma descrição dos dados, a metodologia utilizada, os resultados obtidos e uma discussão dos resultados;
+        - Deve ter no mínimo 5 páginas e no máximo 10 páginas;
+        - Deve ser escrito em formato de artigo científico;
 
     - Apresentação oral
-        > A apresentação oral deve conter uma introdução, uma descrição dos dados, a metodologia utilizada, os resultados obtidos e uma discussão dos resultados;
-        > Deve ter no mínimo 10 minutos e no máximo 15 minutos;
-        > Deve ser apresentada em formato de slides (máximo de 10 slides);
+        - A apresentação oral deve conter uma introdução, uma descrição dos dados, a metodologia utilizada, os resultados obtidos e uma discussão dos resultados;
+        - Deve ter no mínimo 10 minutos e no máximo 15 minutos;
+        - Deve ser apresentada em formato de slides (máximo de 10 slides);
