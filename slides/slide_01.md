@@ -16,7 +16,7 @@ paginate: true
 
 Michael Souza
 
-![bg right:30% height:1500px](../figures/logo_QR.png)
+![bg right:30% height:1500px](slide_01/logo_QR.png)
 
 ---
 # O que é Extensão?
@@ -26,7 +26,7 @@ Michael Souza
   - Promover o desenvolvimento social, cultural, científico e tecnológico.
   - Contribuir para a solução de problemas da comunidade.
 
-![bg right:20% height:100%](../figures/new_ideas.jpg)
+![bg right:20% height:100%](slide_01/new_ideas.jpg)
 
 ---
 # O que é Extensão?
@@ -42,7 +42,7 @@ Soluções p/ problemas sociais/profissionais.
 - ***Publicações***: 
 Divulgação do conhecimento gerado (livros, artigos, relatórios).
 
-![bg right:20% height:100%](../figures/new_ideas.jpg)
+![bg right:20% height:100%](slide_01/new_ideas.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ Ela envolve consultorias, assessorias e soluções práticas para problemas soci
 
 Na Extensão Universitária, a 'Prestação de Serviço' vai além das salas de aula! 🏫🌍 
 
-![bg right:20% height:100%](../figures/new_ideas.jpg)
+![bg right:20% height:100%](slide_01/new_ideas.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ Cada publicação é uma janela para as inovações e aprendizados gerados nas u
 ✔️ ***Pró-Reitoria de Extensão***
 https://prex.ufc.br/en/
 
-![bg right:20% height:100%](../figures/new_ideas.jpg)
+![bg right:20% height:100%](slide_01/new_ideas.jpg)
 
 ---
 ## Carga Horária
@@ -116,7 +116,7 @@ Além disso, espera-se que os alunos sejam ***capazes de elaborar questionários
 2. DOWNING, Douglas. Estatística aplicada. 3. ed. São Paulo, SP: Saraiva, 2011.
 3. MINGOTI, Sueli Aparecida. Análise de dados através de métodos de estatística multivariada: uma abordagem aplicada. Belo Horizonte: Editora UFMG, 2005.
 
-![bg right:10% height:100%](../figures/pile_of_books.jpg)
+![bg right:10% height:100%](slide_01/pile_of_books.jpg)
 
 ---
 ### Complementar
@@ -126,7 +126,7 @@ Além disso, espera-se que os alunos sejam ***capazes de elaborar questionários
 4. SWEENEY, Dennis J.; WILLIAMS, Thomas A.; ANDERSON, David Ray. Estatística aplicada à administração e economia. 3. ed. brasileira. São Paulo, SP: Cengage Learning, 2014.
 6. BARROS NETO, Benício de; SCARMINIO, Ieda Spacino; BRUNS, Roy Edward. Como fazer experimentos: pesquisa e desenvolvimento na ciência e na indústria. 4. ed. Porto Alegre: Bookman, 2010.
 
-![bg right:10% height:100%](../figures/pile_of_books.jpg)
+![bg right:10% height:100%](slide_01/pile_of_books.jpg)
 
 ---
 ## Descrição do Conteúdo/Unidades
@@ -137,7 +137,7 @@ Além disso, espera-se que os alunos sejam ***capazes de elaborar questionários
     - Análise de dados
     - Interpretação dos resultados
 
-![bg right:20% height:100%](../figures/conteudo.jpg)
+![bg right:20% height:100%](slide_01/conteudo.jpg)
 
 ---
 ## Descrição do Conteúdo/Unidades
@@ -151,7 +151,7 @@ Além disso, espera-se que os alunos sejam ***capazes de elaborar questionários
     - Escalas de medida
     - Validação de questionários
 
-![bg right:20% height:100%](../figures/conteudo.jpg)
+![bg right:20% height:100%](slide_01/conteudo.jpg)
 
 ---
 ## Descrição do Conteúdo/Unidades
@@ -163,7 +163,7 @@ Além disso, espera-se que os alunos sejam ***capazes de elaborar questionários
     - Escolha do conjunto de dados
     - Escolha da metodologia
 
-![bg right:20% height:100%](../figures/conteudo.jpg)
+![bg right:20% height:100%](slide_01/conteudo.jpg)
 
 ---
 ## Descrição do Conteúdo/Unidades
@@ -177,7 +177,7 @@ Além disso, espera-se que os alunos sejam ***capazes de elaborar questionários
     - Estatística inferencial
     - Testes de hipóteses
 
-![bg right:20% height:100%](../figures/conteudo.jpg)
+![bg right:20% height:100%](slide_01/conteudo.jpg)
 
 ---
 ## Descrição do Conteúdo/Unidades
@@ -185,7 +185,7 @@ Além disso, espera-se que os alunos sejam ***capazes de elaborar questionários
     - Relatório escrito
     - Apresentação oral
 
-![bg right:20% height:100%](../figures/conteudo.jpg)
+![bg right:20% height:100%](slide_01/conteudo.jpg)
 
 ---
 ## Metodologia de Ensino
@@ -196,7 +196,7 @@ Aulas expositivas, visitas técnicas, elaboração de questionários estatístic
 
 Participação em aula, elaboração de questionários estatísticos, análise de dados e apresentação de resultados.
 
-![bg right:30% height:800](../figures/working_together.jpg)
+![bg right:30% height:800](slide_01/working_together.jpg)
 
 ---
 ## Avaliação
@@ -207,16 +207,18 @@ $$M_f = 0.2 \times F + 0.4 \times R + 0.4 \times A,$$
 
 onde 
 
-$$F=\frac{F_{max} - F_{real}}{F_{max}}.$$
+$$F=\frac{F_{max} - F_{real}}{F_{max}},$$
 
-![bg right:40% height:300](../figures/table_media.png)
+onde $F_{max}$ é o número máximo de faltas permitidas para não ser reprovado por falta e $F_{real}$ é o número de faltas do aluno.
+
+![bg right:40% height:300](slide_01/table_media.png)
 
 ---
 ## Projeto
 
 O projeto consistirá na análise de um conjunto de dados reais, com o objetivo de responder a uma pergunta de pesquisa. O projeto será desenvolvido em grupo e apresentado ao final do curso.
 
-![bg right:30% height:800](../figures/working_together.jpg)
+![bg right:30% height:800](slide_01/working_together.jpg)
 
 ---
 ### Etapas do Projeto
@@ -226,7 +228,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
     - O conjunto de dados deve ser disponibilizado publicamente
     - Os critérios para escolha do conjunto de dados serão discutidos em sala de aula
 
-![bg left:30% height:800](../figures/dataset.webp)
+![bg left:30% height:800](slide_01/dataset.webp)
 
 ---
 ### Etapas do Projeto
@@ -235,7 +237,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
     - Deve ser relevante e factível
     - Deve ser respondida com base nos dados disponíveis
 
-![bg right:30% height:800](../figures/working_together.jpg)
+![bg right:30% height:800](slide_01/working_together.jpg)
 
 ---
 ### Etapas do Projeto
@@ -250,7 +252,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
     - Aplicação do teste estatístico
     - Interpretação dos resultados
 
-![bg left:30% height:800](../figures/data_analytics.jpg)
+![bg left:30% height:800](slide_01/data_analytics.jpg)
 
 ---
 ### Etapas do Projeto
@@ -260,7 +262,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
     - Deve ter no mínimo 5 páginas e no máximo 10 páginas;
     - Deve ser escrito em formato de artigo científico;
 
-![bg right:20% height:900](../figures/presentation.jpg)
+![bg right:20% height:900](slide_01/presentation.jpg)
 
 ---
 ### Etapas do Projeto
@@ -270,7 +272,7 @@ O projeto consistirá na análise de um conjunto de dados reais, com o objetivo 
     - Duração entre 10 e 15 minutos;
     - Máximo de 10 slides;
 
-![bg right:20% height:900](../figures/presentation.jpg)
+![bg right:20% height:900](slide_01/presentation.jpg)
 
 ---
 
